@@ -1,0 +1,107 @@
+
+
+
+<!doctype html>
+<html lang="en"  id="h">
+
+
+
+
+<head>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>ЦЕНТР КИБЕРБЕЗОПАСНОСТИ</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script type="text/javascript" src="https://www.l2.io/ip.js?var=userip"></script>
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+      m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+      m[i].l = 1 * new Date(); k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(55379842, "init", {
+      id: 55379842,
+      clickmap: true,
+      trackLinks: true,
+      accurateTrackBounce: true,
+      webvisor: true,
+      params: { 'ip': userip }
+    });
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/55379842" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <!-- /Yandex.Metrika counter -->
+
+
+
+
+
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+  </script>
+  <link rel="stylesheet" href="../../../assets/js/dist/css/lightbox.css">
+  <script src="../../../assets/js/dist/js/lightbox-plus-jquery.js"></script>
+</head>
+<body>
+  <app-root></app-root>
+
+ <script>
+
+
+
+
+
+
+window.onbeforeunload = function () {
+  window.scrollTo(0, 0);
+  
+}
+
+
+
+
+
+
+function checkPosition() {
+
+  const nav = document.getElementById('btnScroll');
+  
+  let windowY = window.scrollY;
+  if (windowY > 150) {
+    // Scrolling UP
+   // nav.classList.add('');
+
+   nav.classList.add('animated');
+    nav.classList.add('moto-back-to-top-button_visible');
+  } else {
+    // Scrolling DOWN
+ 
+    nav.classList.add('animated');
+    nav.classList.remove('moto-back-to-top-button_visible');
+   // nav.classList.remove('');
+  }
+  //scrollPos = windowY;
+
+  //adaptColor('.nav-button i');
+ 
+}
+
+
+
+
+
+window.addEventListener('scroll', checkPosition);
+
+
+</script>
+
+
+
+
+<script type="text/javascript" src="runtime.js"></script><script type="text/javascript" src="es2015-polyfills.js" nomodule></script><script type="text/javascript" src="polyfills.js"></script><script type="text/javascript" src="styles.js"></script><script type="text/javascript" src="scripts.js"></script><script type="text/javascript" src="vendor.js"></script><script type="text/javascript" src="main.js"></script></body>
+</html>
