@@ -1,0 +1,369 @@
+{
+  "HomeTitle": "CYBERSECURITY",
+  "HomeTitle2": "CENTER",
+  "MenuFeeds": "FEEDS",
+  "MenuFeeds1": "Feeds",
+  "MenuMain": "HOME",
+  "MenuAbout": "About Us",
+  "MenuServices": "SERVICES",
+  "MenuReviews": "REVIEWS",
+  "MenuNews": "NEWS",
+  "MenuContacts": "CONTACTS",
+  "btnSendRequest": "Leave a request",
+  "menu": "Menu",
+  "MenuMain1": "Home",
+  "MenuServices1": "SERVICES",
+  "MenuReviews1": "REVIEWS",
+  "MenuNews1": "NEWS",
+  "MenuContacts1": "Contacts",
+  "missionFooter": "Our mission is to protect national interests of the Republic of Belarus in cyber space and create a favourable image of the country on international arena.",
+  "partners": "Our partners",
+  "quest": "Got any questions?",
+  "quest1": "Contact us by filling out the feedback form. Our experts will answer you soon.",
+
+  "contact": "Contact information",
+  "contact1": "Feedback form",
+
+  "phn1": "Phone",
+  "addrs": "Address",
+  "schdl1": "Working Hours",
+  "Sergey": "Sergey",
+  "Alexander": "Alexander",
+
+  "btnContact": "Contact Us",
+  "rights": "All rights reserved.",
+  "agat": "© 2019-2021 Cybersecurity Center OJSC «AGAT – Control Systems» – Managing Company of «Geoinformation Control Systems Holding»",
+  "advantages": "Our advantages",
+  "advantage1": "Thanks to the partnership relations with the world’s leading vendors Cybersecurity Center of OJSC “AGAT – Control Systems” has the access to the latest cybersecurity developments.",
+  "advantage2": "Flexible pricing policy allows us to satisfy the requirements of our Customers.",
+  "advantage3": "In the course of actual work the staff of Cybersecurity Center uses modern dedicated software and hardware.",
+  "advantage4": "Working with clients Cybersecurity Center also uses advanced solutions: “bug bounty” method, creation and configuration of turnkey security system, consulting services and other activities.",
+  "advantage5": "Cybersecurity Center of OJSC “AGAT – Control Systems” guarantees safety of any input data and confidentiality to all its Customers according to the strict corporate policy on commercial and official secrets.",
+  "advantage6": "Cybersecurity Center is committed to continuously improving the skills of its employees by ensuring the use of the latest cybersecurity techniques and practices at Customer’s sites.",
+
+
+  "about": "About",
+  "text1": "As a result of  worsening negative manifestations of the increasing risk and harm caused by cyber-threats, a specialized department was formed in January 2019,  relevant professionals were selected, space was allocated in the company's headquarters, which is equipped with the necessary computer and other equipment.",
+  "text2": "Young and ambitious team of the Cybersecurity Center constantly takes part in events aimed at improving their skills. Our partners help us to achieve better results. We work together with Group IB, Kaspersky Lab, Rostelecom-Solar.",
+  "mission": "MISSION",
+  "text3": "Our mission is to protect the national interests of the Republic of Belarus in cyberspace and to create a favorable image of the country in the international arena through a series of actions to confront the  information security threats of business entities of our country.",
+  "goals": "Our goals consist in comprehensive, full and well-timed countering to information security incidents through research, analysis, prevention, warning, response, counteraction to cyber threats and elimination of such threats and reduction of damage from the negative consequences caused by them.",
+  "text4": "Our goals are to comprehensively, fully and timely confront information security incidents through research, analysis, prevention, response, counteraction against cyber threats, elimination of these threats and reduction of possible caused by negative consequences.",
+  "text5": "Alexander Sergeyevich Mokhnach, who had previously served in the Investigative Committee of the Republic of Belarus and had been directly involved in the investigation of crimes against information security and intellectual property, was appointed the head of the newly created department.",
+  "learnMore": "Learn More",
+
+
+
+
+  "audit1": "Information security audit",
+  "audit2": "Information security audit allows you to conduct Analysis of the existing policies, procedures of information security for their completeness and effectiveness, Analysis of the risks related to cyber threats. It allows you to establish the recommendations on development of the policies and procedures of information security based on the analysis of the existing level of information security and to Develop the proposals on the use of existing and installation of additional information security tools to increase the level of reliability and security of the company information system.",
+  "pentest1": "Penetration testing",
+  "pentest2": "Penetration test is conducted to assess real capability of the information security system to counter intruders and further reasoning of the activities to provide information security. Penetration test is a required step in conducting risk analysis in many companies. It is always relevant when commissioning new systems or after changes in the IT-infrastructure. Penetration test allows to assess the changing risks and to monitor the implementation of information security processes ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+  "monitoring1": "Monitoring and incident response",
+  "monitoring2": "The monitoring makes it possible to collect and analyze the data on current state of the objects’ information systems and its changes, detect, prevent and eliminate the consequence of cyber threats directed at the controlled information resources, promptly respond to information security incidents. The main task of monitoring is a mitigation of cyber threats risks. The Cybersecurity Center monitors actions in the information system, changes in hardware and software settings which contradict established requirements and policies ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀",
+  "dlp1": "Подробнее",
+  "dlp2": "Подробнее",
+  "checking1": "Подробнее",
+  "checking2": "Подробнее",
+  "documentation1": "Development and implementation of ISMS",
+  "documentation2": "The establishment of an information security management system is necessary for fulfillment by organizations of the requirements of laws and regulations of the Republic of Belarus in the sphere of IT critical assets security, setting up and supporting of IT critical assets operation, bringing of the processes and procedures of information security of the company into compliance with the requirements, statements and recommendations of technical laws and regulations in the sphere of technical regulation and standardization (including the Standard of the Republic of Belarus ISO/IEC 27000)",
+
+  "name": "NAME",
+  "company": "COMPANY",
+  "phone": "PHONE",
+  "message": "MESSAGE",
+
+  "field": "Field",
+  "notNull": "Can not be empty",
+
+  "incorrect": "is incorrect",
+  "onlydigits": "must contain only digits",
+  "sendBtn": "Send Message",
+
+  "stat": "Statistics for 2018",
+
+  "city": "Minsk",
+  "address": "Minsk, Nezavisimosti Avenue, 117",
+  "faks": "Fax",
+  "schdl2": "Mon - Fri : 8.00 – 17.00",
+  "formTitle1": "Fill in the form",
+  "formTitle2": "to contact us",
+  "successMessage": "Message sent! We will contact you soon!",
+
+  "adrCont": "OJSC «AGAT – Control Systems»",
+
+  "adr": "220114 Republic of Belarus, Minsk, 117, Nezavisimosti Avenue",
+  "phn": "Phone: ",
+  "fx": "Fax: ",
+  "ml": "Mail: ",
+  "schdl": "Working hours: 8.00 – 17.00",
+  "lnch": "Lunchtime: 12.00–13.00 (GMT +3)",
+  "wknd": "Days off: Saturday, Sunday",
+
+
+
+
+
+
+
+
+
+
+
+
+  "auditTitle": "AUDIT",
+  "pentestTitle": "PENTEST",
+  "monitoringTitle": "MONITORING",
+  "documentationTitle": "ISMS",
+  "orientation": "Please use portrait orientation",
+  "audit": "INFORMATION SECURITY AUDIT OF INFORMATION SYSTEMS AND CLIENTS’ LAN.",
+  "pentest": "PENETRATION TESTING USING THE “WHITE”, “GRAY”, “BLACK” BOX METHODS.",
+  "monitoring": "MONITORING AND RESPONDING TO CYBER SECURITY INCIDENTS IN CLIENTS’ LAN.",
+  "documentation": "DEVELOPMENT OF SPECIALIZED DOCUMENTATION FOR ENERGY ENTERPRISES (CRITICAL INFORMATION OBJECTS) IN ACCORDANCE WITH THE REQUIREMENTS OF THE REGULATOR.",
+
+
+
+
+  "MenuAudit": "Audit",
+  "audit9": "INFORMATION SECURITY AUDIT",
+  "audit10": "Information security audit is conducted:",
+  "audit11": "If there is a need to increase common level of company’s information security",
+  "audit12": "If company’s development strategy changes",
+  "audit13": "Upon merger, takeover or acquisition, company amendment, establishing new offices or remote divisions",
+  "audit14": "Upon the emergence of new internal or external requirements in information security sphere including changes to existing laws",
+  "audit15": "Upon changing of company’s management course or leadership team, significant changes in organizational chart",
+  "audit16": "Upon updating of networking services and workstations",
+  "audit17": "In case of significant changes in main business processes",
+  "audit18": "As the result of major changes in company’s IT-infrastructure, introduction of new systems and services",
+  "audit19": "Main tasks solved during the information security audit:",
+  "audit20": "Collection and analysis of initial data on organizational chart and functional structure of the company information system",
+  "audit21": "Analysis of the existing policies, procedures of information security for their completeness and effectiveness",
+  "audit22": "Analysis of the risks related to cyber threats",
+  "audit23": "Establishing the recommendations on development of the policies and procedures of information security based on the analysis of the existing level of information security",
+  "audit24": "Development of the proposals on the use of existing and installation of additional information security tools to increase the level of reliability and security of the company information system",
+  "audit25": "The following components can be checked during audit:",
+  "audit26": "Local corporate network including wireless network",
+  "audit27": "Operating systems",
+  "audit28": "Visualization systems",
+  "audit29": "Data base management system",
+  "audit30": "Information security tools (firewalls, antiviruses, IDS/IPS etc.)",
+  "audit31": "Policies (rules) of information security",
+  "audit32": "Processes of information security",
+  "audit33": "Cybersecurity Center offers three models of information security audit:",
+  "audit341": "General information security audit",
+  "audit34": "during which shortcomings of the existing system are identified based on the “best practice” requirements according to actual changes in general tendencies of cyber threats on global and regional (industry) scale. The objectives of such audit are to assess the current security status of client’s information systems and information resources and to develop recommendations for increasing security level of such systems and resources. The recommendations are provided in the form of a detailed report on audit results. A document audit can be conducted additionally;",
+  "audit351": "Detailed information security audit",
+  "audit35": "which shortcomings of the existing system are also identified based on the “best practice” requirements according to actual changes in general tendencies of cyber threats on global and regional (industry) scale. The objectives of such audit are to assess the current security status of client’s information systems and information resources and forward correction of critical vulnerabilities to increase security level of such systems and resources by specialists of the Center with participation of Customer’s representatives. Users’ workstations, network and server hardware, documentation on information security may be affected while eliminating vulnerabilities. A detailed evaluation report with all detected and corrected critical vulnerabilities is provided on the basis of the audit and correction;",
+  "audit361": "Information security audit for compliance with the international standard ISO/IEC 27001:2016.",
+  "audit36": "Information security audit for compliance with the international standard ISO/IEC 27001:2016. This audit model defines compliance of the existing information system of the company to the international standard ISO/IEC 27001:2005 in order to be able to pass certification.",
+  "audit37": "Audit progress (stages):",
+  "audit38": "Activation of audit procedure (signing NDA, holding working meeting to determine audit plan and boundaries, auditors’ powers and authority, purpose and objectives of the audit, identifying responsible officials as representatives of the Customer)",
+  "audit39": "Collection of information (studying existing information security system: organizational-administrative documentation, programs and hardware, interviewing employees)",
+  "audit40": "Analysis of the audit data collected and identification of real / potentially dangerous channels of information leaks, other cyber threats",
+
+  "audit41": "Development of recommendations on improving existing and / or implementing new measures to protect information and counter cyber threats. Preparation and submission of audit report, consultations",
+  "audit42": "On completion of the audit of company’s information security you will get:",
+  "audit43": "The conclusion of cybersecurity experts with assessment of the current state of information system protection level. This document contains a list of detected vulnerabilities and threats, a list of the existing and potential  threats to the information security of your company ranked by importance",
+  "audit44": "Recommendations of the experts. A list of administrative and technical measures that should be taken to increase security of your company. You can do this both by you own specialists and by contacting the specialists of the Cybersecurity Center or other companies",
+  "audit45": "Qualified assistance and advice from the experienced professionals, answers to all your questions regarding information security",
+  "audit46": "Full-service support in the process of implementing individually developed information security solutions",
+  "audit47": "For more information on conducting an information security audit, you can leave a request:",
+
+  "pentest9": "PENETRATION TESTING",
+  "pentest10": "The purpose of the penetration test is to:",
+  "pentest11": "Determine whether the current level of infrastructure security can counter an intrusion attempt of a potential intruder for a definite purpose",
+  "pentest12": "Assess the risks in case of successful intruders’ attacks",
+  "pentest13": "Get recommendations on elimination of vulnerabilities in information security system",
+  "pentest14": "Penetration test can be conducted:",
+  "pentest15": "To assess real capability of the information security system to counter intruders and further reasoning of the activities to provide information security",
+  "pentest16": "When passing a certification audit for compliance with the requirements of standards (for instance, it’s required for PCI DSS)",
+  "pentest17": "Penetration test is a required step in conducting risk analysis in many companies. It is always relevant when commissioning new systems or after changes in the IT-infrastructure. Penetration test allows to assess the changing risks and to monitor the implementation of information security processes",
+  "pentest18": "Depending on the objectives a penetration test package may also include:",
+  "pentest19": "Testing the company’s LAN for the possibility of unauthorized entry",
+  "pentest20": "Testing the company’s web-resources and services (sites, Help-Desk and Service-Desk systems clients open to external users, CRM, bank customers)",
+  "pentest21": "Search and operation of security vulnerabilities. The operation of vulnerabilities should be agreed with the Customer",
+  "pentest22": "Testing for penetration into the company’s wireless network (Wi-Fi)",
+  "pentest23": "Testing monitoring and control system of physical access (access monitoring and control system)",
+  "pentest24": "Pentest can be internal and external. The following elements can be included into the pentest depending on the purposes:",
+  "pentest25": "is a simulation of the actions of an external intruder (a third-party online community, an employee of a competing company etc.), who acts through a common channel of Internet network or other external uncontrolled networks (for instance, selected connections with other companies). Most often it is carried out using “black box” method, i.e. the person who conducts the pentest initially doesn’t have any information on the company except for the public information (initially doesn’t have access to the “closed” services and internal LAN of the company). It is also allowed to use “gray box” method (for instance, in modeling – a user of internet service of the company or a contractor).",
+  "pentest251": "External test of the network and perimeter ",
+  "pentest261": "Internal network test ",
+  "pentest26": "(simulation of the actions of an insider-intruder, i.e. a company’s employee) using “white box” method. In such a case the person who conducts the pentest has the access to LAN with the rights of basic user (or no rights at all) but with physical access to the network or workstation. The test can be done either remotely (via VPN-connection) or with presence of the person who conducts the pentest on the territory of the Customer.",
+  "pentest27": "Social engineering as a direction of external pentest. Examples: spamming infected emails; leaving infected flash drivers in the company. According to the results both the operation of antivirus tools and traffic monitoring tools as well as the actions of employees upon receiving such emails or finding flash drivers are analyzed. The fact of opening such email or using such flash driver on the corporate work place itself can be considered an information security incident and a reason for training employees to basic requirements of information security. It’s possible to use social networks, phone calls and other methods of social engineering.",
+  "pentest28": "Pentest progress (stages):",
+  "pentest29": "Activation of penetration test procedure (signing NDA, agreement, holding working meeting to determine pentest plan and boundaries, operation depth of vulnerabilities, registration of statement of work)",
+  "pentest30": "Collection of information",
+  "pentest31": "Analysis of vulnerabilities",
+  "pentest32": "Operation of vulnerabilities upon consultation with the Customer’s representative and analysis of proactiveness after operation",
+  "pentest33": "Deleting of testing signs (created vulnerable accounts, elevation of privileges) or transmission the information on them to the Customer",
+  "pentest34": "Preparation and issuing of report documentation, holding consultations and other actions according to the agreement",
+  "pentest35": "On completion of the pentest our specialists issue the report on penetration test results which shows the following:",
+  "pentest36": "Detected weaknesses and vulnerabilities (for instance, incorrect assignment of access privileges, redundancy of access privileges, bad passwords, outdated versions of the software, insufficient segmentation of LAN, lacking skills of employees)",
+  "pentest37": "Recommendations on improving information security processes and elimination or localization of the detected vulnerabilities",
+  "pentest38": "For more information on conducting a penetration testing, you can leave a request:",
+  "pentest39": "Skilled help and advice from experienced professionals, answers to all your questions related to information security.",
+  "pentest40": "Comprehensive support during the implementation of tailor-made information security solutions.",
+
+  "MenuPentest": "Pentest",
+
+
+  "monitoring10": "Why it is necessary to connect?",
+
+  "monitoring11": "Mitigation of cyber threats risks. The Cybersecurity Center monitors actions in the information system, changes in hardware and software settings which contradict established requirements and policies",
+
+  "monitoring12": "Shortage, congestion or lack of internal service personnel for collection and analysis of data on cyber threats and system status. The duty staff of the Cybersecurity Center will identify incidents quickly, propose the ways for meeting the attack and minimizing the damage from its consequence",
+
+  "monitoring13": "Clear and expected losses. In-house monitoring team – significant costs for equipment, dedicated software, training in a narrow area of activities. Monitoring service on MSSP model – monthly or quarterly fixed payment",
+
+  "monitoring14": "Monitoring objectives are to:",
+
+  "monitoring15": "Collect and analyze the data on current state of the objects’ information systems and its changes",
+
+  "monitoring16": "Detect, prevent and eliminate the consequence of cyber threats directed at the controlled information resources",
+
+  "monitoring17": "Notify responsible employees on the detection, prevention and elimination of the consequences of cyber attacks",
+
+  "monitoring18": "Promptly respond to information security incidents",
+
+  "monitoring19": "Find common cases of incidents",
+
+  "monitoring20": "Collect information to start an incident investigation",
+
+  "monitoring21": "Provide the services of information security or information technology with the analytics for management decisions to increase the stability of the systems against attacks",
+
+  "monitoring22": "Connection work contains four stages:",
+
+  "monitoring23": "we examine the Customer’s information systems and resources the status of which should be monitored by the Cybersecurity Center",
+  "monitoring24": "we determine the list of hardware for monitoring, its specifications and configuration and connection diagrams. We debug monitoring processes: determine the responsible manager, define the mechanism for notifying the Customer’s representatives, the depth of response, monitoring format (monitoring time, weekdays and holidays), response format (by person or remotely), we determine and agree with the Customer the report form and level of detalization (additional research such as incident investigation, use of forensics tools and other)",
+  "monitoring25": "– we install and configure the equipment at the site, connect it to the systems of the Cybersecurity Center via secured communication channels",
+  "monitoring26": "is test operation. We connect previously defined monitoring tools step by step and analyze the input data",
+  "monitoring27": "Then the Cybersecurity Center analytics start the monitoring by processing incidents, establish common causes of the occurrence, monthly evaluate protection level of information resources",
+  "monitoring28": "For more information on monitoring and incident investigation, you can leave a request:",
+
+  "monitoring231": "At the first stage ",
+  "monitoring241": "At the second stage ",
+  "monitoring251": "The third stage ",
+  "monitoring261": "The fourth stage ",
+
+  "MenuMonitoring": "Monitoring",
+  "monitoring9": "MONITORING AND INCIDENT RESPONSE",
+
+
+  "isms10": "When conducting activities to create ISMS the following tasks are achieved:",
+  "isms11": "Fulfillment by organizations of the requirements of laws and regulations of the Republic of Belarus in the sphere of IT critical assets security",
+  "isms12": "Setting up and supporting of IT critical assets operation",
+  "isms13": "Bringing of the processes and procedures of information security of the company into compliance with the requirements, statements and recommendations of technical laws and regulations in the sphere of technical regulation and standardization (including the Standard of the Republic of Belarus ISO/IEC 27000)",
+  "isms14": "As part of ISMS creation the following activities are performed:",
+  "isms15": "Information security policy design",
+  "isms16": "Specifying the set of legal, organizational and technical measures designed to provide information security",
+  "isms17": "Identification of physical and logical boundaries of implementation area of IT critical assets security system",
+  "isms18": "Holding an inventory of assets (information systems and networks, products and physical devices, software, information security tools and information) and IT critical assets classification",
+  "isms19": "Preparation of IT critical asset passport (formular)",
+  "isms20": "Listing of information security threats",
+  "isms21": "Listing of vulnerabilities of information systems",
+  "isms22": "Development of risks assessment method",
+  "isms23": "Holding of security risks assessment",
+  "isms24": " Determining the tool of management necessary for implementation of the selected option of risks processing",
+  "isms25": "For more information on information security management systems, you can leave a request:",
+  "MenuIsms": "ISMS",
+  "isms9": "INFORMATION SECURITY MANAGEMENT SYSTEMS",
+  "details": "Details",
+  "logo": "../../../assets/logo-en.svg",
+  "contact-home-src": "../../assets/contact-en.webp",
+  "contact-laptop-src": "../../../assets/contact-laptop-en.webp",
+  "contact-src": "../../../assets/pc-contact-en.webp",
+
+
+
+  "AGATCTF-2019": "AGAT CTF-2019",
+  "AGATCTF-2019-Header": "The second «AgatCTF-2019» information security competition is over",
+  "AGATCTF-2019-Paragraph1": "The 2nd contest on the information security “AgatCTF-2019” was run at OJSC “AGAT- Control Systems” on March 30-31, 2020 under the international rules – “Capture the flag”. Six teams of the top Belarusian universities involved in training of IT experts such as the Belarusian State University, Belarusian State University of Informatics and Radioelectronics, Belarusian State Technological University and Vitebsk  State University named after P.M. Masherov. Mr. Roman Halouchenka, the chairman of the State Authority for the Military Industry, emphasized the importance of the IT-domain for the Belarus economics and necessity to be ready to face the potential threats and risks associated with the penetration of the information technology into all spheres of human life.",
+  "AGATCTF-2019-Paragraph2": "Mr. Henadzi Kazakou, director of OJSC “AGAT- Control Systems” emphasized the leading role of training in the domain of the information security to ensure the protection of companies and enterprises from potential cyber threats and stressed that the participants who displayed themselves at the competitions and demonstrated a high professional level will be invited to become a part of the unit created in the Company specialized in the information security audit.",
+  "AGATCTF-2019-Paragraph3": "According to the terms of the AgatCTF-2019 contest, the teams were offered six absolutely identical services representing any subsystems of the City of Future - AGAT City - the performance and security were to be maintained by a participant. Each of these modern urban services (city billboard service, medical center, bike rental service, smart home system, drone delivery service, and police department) had vulnerabilities. The teams had to identify such vulnerabilities in their services and maintain their performance, as well as take advantages of the found software vulnerability to attack rival services and capture their flags.",
+  "AGATCTF-2019-Paragraph4": "The visitors of the event and students who came to support the teams of their universities could take part in the entertainment program - the guests were offered contests and entertainment, as well as virtual reality attractions at a separate site.",
+  "AGATCTF-2019-Paragraph5": "Close to the middle of the contest the leadership was taken by the team of «FPMI –Х» (Belarusian State University); the rivals failed to reach it. Under the contest results the team of «FPMI –Х» (Belarusian State University) became a champion confirming its victory in 2018.",
+  "AGATCTF-2019-Paragraph6": "Under the results of the contest day the places were distributed as follows:",
+  "AGATCTF-2019-Paragraph7": "1. FPMI-Х (Belarusian State University)",
+  "AGATCTF-2019-Paragraph8": "2. BSUIR",
+  "AGATCTF-2019-Paragraph9": "3. FPMI -2 (Belarusian State University)",
+  "AGATCTF-2019-Paragrap10": "4. Fitness Babes (Belarusian State Technological University)",
+  "AGATCTF-2019-Paragraph11": "5. E2I3 (Vitebsk  State University named after P.M. Masherov)",
+  "AGATCTF-2019-Paragraph12": "6. Daybreak (Belarusian State University of Informatics and Radioelectronics).",
+  "AGATCTF-2019-Paragraph13": "The winners and awardees of the Contest were awarded prizes on March 31, 2020. When giving the awards Mr. Henadzi Kazakou, director of OJSC “AGAT- Control Systems”, emphasized the important role of AGAT CTF contest in checking the qualifications of IT-personnel and invited the representatives of universities to take part in the future contests. Besides, the visitors of the 2nd day of the event took part in the conference on the information security where the experts of OJSC “AGAT- Control Systems”, as well as representatives of the leading players of the Belarusian IT-industry made presentations.",
+
+  "SolutionsKasperskyLaboratory": "Ensure the security of 2nd European Games",
+  "SolutionsKasperskyLaboratory-Header": "Solutions of “Kaspersky Laboratory” is a choice of Cybersecurity Center of OJSC “AGAT - Control Systems” to ensure the security of 2nd European Games in Minsk",
+  "SolutionsKasperskyLaboratory-Paragraph1": "The Kaspersky Laboratory has assisted to ensure the stable performance of the information resources of 2nd European Games.",
+  "SolutionsKasperskyLaboratory-Paragraph2": "A specialized platform was selected for counteractions against complex threats at the network level of the Kaspersky Anti Targeted Attack allowing timely detection of multi-stage actions of intruders in the network and protection against them at all stages. At the same time, the experts of the Cybersecurity Center of OJSC “AGAT - control systems” provided a continuous process of monitoring and response during the competition.",
+  "SolutionsKasperskyLaboratory-Paragraph3": "“Due to the solution of the Kaspersky Laboratory, we were able to organize the uninterrupted operation of information resources during the 2nd European Games and ensure their security. We look forward to further productive cooperation with the Kaspersky Laboratory including the issues to ensure the cybersecurity of the enterprises of the State Authority for the Military Industry, as well as the Belarus energy sector,” said Mr. Alexander Mokhnach, the Head of the Cybersecurity Center of OJSC“AGAT - Control Systems”.",
+  "SolutionsKasperskyLaboratory-Paragraph4": "The Kaspersky Anti Targeted Attack Platform (KATAP) — is a solution for the protection against targeted attacks. Their main danger is in the fact that they are carefully elaborated for each specific company and often do not reveal themselves in any way for a long time. The result can be a permanent leakage of confidential data, business downtime or a blow to reputation. KATAP resists attacks at all stages and is capable of both detecting an attack that has already begun and minimizing damage from it, as well as protecting an enterprise from potential threats by assessing the security risks in the current infrastructure.",
+  "SourceLink": "Sourse link",
+
+  "KasperskySecurityDay": "Kaspersky Security Day",
+  "KasperskySecurityDay-Header": "The representatives of Cybersecurity center of OJSC “AGAT – Control Systems” participate in “Kaspersky Security Day. Build up a safe world” conference",
+  "KasperskySecurityDay-Paragraph1": "One of the main speakers of the event was the head of the Cybersecurity Center Mr. Alexander Mokhnach, who spoke on the topical issue of “Comprehensive approach to ensure the information security of enterprises: audit, penetration test, monitoring”. The report had a positive response and substantive discussion with the conference participants.",
+  "KasperskySecurityDay-Paragraph2": "The Cybersecurity Center is an official authorized partner of the OJSC “Kaspersky Laboratory” (Russian Federation) in the Republic of Belarus.",
+  "KasperskySecurityDay-Paragraph3": "We express our gratitude to Belarus Mr. Dmitry Kudrevich, the representative of the Kaspersky Laboratory in the Republic of for the high level of the event organization.",
+  "KasperskySecurityDay-Paragraph4": "If you have not attended today the Kaspersky Security Day, then the experts of our Center are ready to contact you and discuss the options for cooperation in ensuring the information on security of your business.",
+
+  "SecurityWebinar": "Information Security of Enterprises",
+  "SecurityWebinar-Header": "The representatives of Cybersecurity center of OJSC “AGAT – Control Systems” participate in “Information Security of Enterprises. Information security” web-conference",
+  "SecurityWebinar-Paragraph1": "The representatives of the Cybersecurity Center of OJSC “AGAT – Control Systems” - the managing company of the “Geoinformation Control Systems holding” took part in the web-conference of “The Information Security of Enterprises. Protection of the Information”, organized by the Unitary Enterprise of “The Center for Business Education” of the Belarusian Chamber of Commerce and Industry on July 15, 2020.",
+  "SecurityWebinar-Paragraph2": "Mr. Alexander Mokhnach, the head of the Cybersecurity Center of OJSC “AGAT – Control Systems” has reported on the practical methods of enhancing the information security of business that meet modern challenges and threats. During the meaningful dialogue of the web-conference, the participants received the professional advices from the domains of science, telecommunications, education and the mass media.",
+  "SecurityWebinar-Paragraph3": "At the end of the event, the participants noted the high importance of the topic and the benefits of the information received. The event was attended by a representative of the Investigation Committee of the Republic of Belarus, Mr.Vladimir Nasekailo, who spoke about the latest trends in threats in the cyberspace and the most relevant events in the Belarusian segment.",
+  "SecurityWebinar-Paragraph4": "We express our gratitude to M-me Elena Khoroshevskaya, Director of the Educational and Consulting Unitary Enterprise “CENTER FOR BUSINESS EDUCATION” of the Belarusian Chamber of Commerce and Industry, for the high level of the event organization.",
+
+  "AspectsInformationSecurity": "The main aspects ensuring the information security",
+  "AspectsInformationSecurity-Header": "The main aspects ensuring the information security of Belarusian enterprises in the mass media of the Russian Federation",
+  "AspectsInformationSecurity-Paragraph1": "The “Automation in Industry” (Russian Federation) scientific and technical magazine (Russian Federation) published the article of “The information security of industrial enterprises in Belarus” written by Mr. A.Mokhnach, the head of Cybersecurity Center of OJSC “AGAT – Control Systems” which is available under the ",
+  "AspectsInformationSecurity-Paragraph2": "The article analyses the problematic issues of industrial enterprises of the Republic of Belarus performance in the context to ensure the information security of business entities, it reflects the most pressing cyber threats of our time, and also sets out the main recommendations to start the work on improving the information security processes of an enterprise, provides actual data on growth trends and the percentage of species cyber threats for the period of 2018-2019.",
+  "AspectsInformationSecurity-Link": "reference",
+
+  "CybersecurityCryptography-Header": "Cybersecurity and cryptography",
+  "CybersecurityCryptography-Paragraph1": "The cryptography is a science of methods of data encryption and protection. The encryption of data in order to protect them is increasingly used nowadays in banking, industrial, commercial and other domains.",
+  "CybersecurityCryptography-Paragraph2": "The provision of the information security by methods of cryptography cannot guarantee alone the inviolability of sensitive information, since it is necessary to participate in this process and other important component such as the cybersecurity.",
+  "CybersecurityCryptography-Paragraph3": "Mr. Alexander Mokhnach, the head of the Cybersecurity Center of OJSC “AGAT – Control Systems” has reported on the matter of the cybersecurity and cryptographic methods in order to protect the business information backing up each other, what types of attacks are used by cybercriminals, what protection methods are to be applied for this matter based on the practical experience of the last working year as shown in the  TV program ",
+  "CybersecurityCryptography-Paragraph4": "“Sciencemania”",
+  "CybersecurityCryptography-Paragraph5": " of “Belarus-3“ TV channel   (Timecode on the cybersecurity: 14:02 – 17:23; 21:46 – 25:46).",
+
+  "ITConference-Header": "Participation in  IT-conference",
+  "ITConference-Paragraph1": "The Cybersecurity Center of OJSC “AGAT – Control Systems” took part in the 6th Conference of the “Information Security Technologies and Information Security of companies” (IT-Security Conference - 2020), annually organized by the “INFOPARK” Association on November 24, 1920.",
+  "ITConference-Paragraph2": "Mr. Alexander Mokhnach, the head of the Center, made a report on the topic of “The Cybersecurity Center: at the intersection of technologies and competencies”. The speaker submitted proposals on enhancing mutually beneficial cooperation between the members of the Association and representatives of enterprises of various forms of ownership in the issues of information security.",
+  "ITConference-Paragraph3": "The conference is the mega-event for the specialized community of Belarus involved in information security processes. This year, the conference has been held in an online format; more than 250 representatives of various enterprises and organizations took part in it.",
+
+  "InformationDay-Header": "Congratulations with the International day of the information protection!",
+  "InformationDay-Paragraph1": "The Day of the information protection was first announced in 1988 in order to raise the awareness and promote computer security best practices. Namely, this year the first mass epidemic of a computer virus has been registered.",
+  "InformationDay-Paragraph2": "The main idea is to remind each user on the personal responsibility, ensure and maintain the protection of the information assets and resources.",
+  "InformationDay-Paragraph3": "The protection of information is one of actual and most important directions of the company activities. OJSC “AGAT – Control Systems” – managing company of “Geoinformation Control Systems” Holding is congratulating its employees, colleagues and partners who jointly participate in protection of information interests of the Republic of Belarus.",
+
+  "SecurityCertificate-Header": "The certificate of compliance in the information security domain is obtained",
+  "SecurityCertificate-Paragraph1": "The Cybersecurity Center of OJSC “AGAT - Control Systems Managing Company of the Geoinformation Control Systems Holding”, has been successfully completed the certification process for certain types of activities within the services provided by the Center: penetration testing; monitoring and responding upon the cyber incidents.",
+  "SecurityCertificate-Paragraph2": "Currently, the Center's readiness and ability to provide services at a high quality level has been also confirmed by the certificate of compliance of the information security management system of the Cybersecurity Center with the requirements of CTB ISO / IEC 27001-2016.",
+
+  "HappyNewYear-Header": "Happy New Year!",
+  "LatestNews": "Read also the latest news:",
+  "CenterCyberSecurity": "Cybersecurity Center",
+
+  "FirstMay-Header": "May 1 - Spring and Labor Day",
+  "FirstMay-Paragraph1": "Dear colleagues, we heartily congratulate you on Spring and Labor Day!",
+  "FirstMay-Paragraph2": "We wish you peaceful work, good health, prosperity in every home and a good spring mood.",
+  "FirstMay-Paragraph3": "May optimism and faith in the best never leave you!",
+
+  "VictoryDay-Header": "The Victory Day!",
+  "VictoryDay-Paragraph1": "We warmly congratulate veterans, servicemen and citizens of our country on the 76th anniversary of Victory in the Great Patriotic War!",
+  "VictoryDay-Paragraph2": "The memory of the victory in the Great Patriotic War, which became a symbol of the greatness and heroism of millions of people will never fade!",
+  "VictoryDay-Paragraph3": "From the bottom of our hearts we wish you health, happiness, kindness, prosperity and a peaceful sky over our heads!",
+  "VictoryDay-Paragraph4": "May memory and gratitude live in our hearts!",
+
+  "MILEX-Header": "Cybersecurity Center took part in the 10th International Exhibition of Arms and Military Equipment MILEX-2021",
+  "MILEX": "Cybersecurity Center took part in MILEX-2021",
+  "MILEX-Paragraph1": "Cybersecurity Center was presented at the booth of OJSC «AGAT - Control Systems» - Managing Company of Geoinformation Management Systems Holding at the MILEX-2021 exhibition, June 23-26, 2021 in Minsk.",
+  "MILEX-Paragraph2": "The topic of information security of weapons systems, military command and control structures, command and logistics, and the military-industrial complex is becoming increasingly important. The modern armed forces of the world have a cyber component in their composition, and the conduct of military operations is already unthinkable without cyber operations.",
+  "MILEX-Paragraph3": "This was the reason for the great interest of the visitors to the Cyber Security Center, whose staff (Head of the Cyber Security Center Slabodchikov A.A., Key Account Manager Verlup S.S.) provided comprehensive advice on the services provided. The modern approach to protecting the military, economic and national interests of the country is a comprehensive approach: regular audits of the level of information security and continuous monitoring and response to cyber incidents.",
+  "MILEX-Paragraph4": "All visitors of the stand received advertising and information materials, there was a substantive discussion, exchange of opinions and contacts. A number of agreements on holding meetings with representatives of a number of enterprises were reached.",
+  "MILEX-Paragraph5": "MILEX-2021 exhibition was an advanced platform to demonstrate the direction of cybersecurity, which has acquired strategic importance in the security of the Republic of Belarus nowadays.",
+
+
+
+  "BackMain": "Back to home page"
+}
